@@ -5,6 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=kaito-yuji&label=Profile%20views&color=0e75b6&style=flat" alt="kaito-yuji" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%94%A7;Code+Craftsman+%F0%9F%96%A5%EF%B8%8F;Innovation+Architect+%F0%9F%93%A1" alt="Typing SVG" />
+</p>
+
 - 🌱 I’m currently learning **FPT University**  
 - 📫 How to reach me **haitrilehuu@gmail.com**  
 - ⚡ Fun fact **I think I'm a hilarious person**
