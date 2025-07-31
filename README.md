@@ -13,6 +13,7 @@
   <img alt="GIF" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" width="100%"/>
 </div>
 
+
 - 🌱 I’m currently learning **FPT University**  
 - 📫 How to reach me **haitrilehuu@gmail.com**  
 - ⚡ Fun fact **I think I'm a hilarious person**
