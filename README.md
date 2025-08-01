@@ -28,7 +28,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Kaito-Yuji&theme=dark&hide_border=false" height="150"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaito-Yuji&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaito-Yuji&theme=dark&hide_border=false&layout=compact&langs_count=10&cache_seconds=1800&v=1" height="150"/>
 </div>
 
 
