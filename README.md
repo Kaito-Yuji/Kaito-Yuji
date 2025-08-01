@@ -79,13 +79,6 @@
 </div>
 
 
-
----
-
-<p align="center">
-  ✨ <strong>Let's build something amazing together!</strong> ✨
-</p>
-
 <!-- Update your links in the Contact Me section -->
 ---
 <picture>
@@ -93,5 +86,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaito-Yuji/Kaito-Yuji/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Kaito-Yuji/Kaito-Yuji/output/pacman-contribution-graph.svg">
 </picture>
+---
+<p align="center">
+  ✨ <strong>Let's build something amazing together!</strong> ✨
+</p>
 
 
