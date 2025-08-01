@@ -24,12 +24,13 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaito-Yuji&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Kaito-Yuji&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaito-Yuji&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Kaito-Yuji&theme=dark&hide_border=false" height="150"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaito-Yuji&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaito-Yuji&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
 </div>
+
 
 
 ## 🏆 GitHub Trophies
